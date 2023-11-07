@@ -11,3 +11,7 @@ USAID/SI testing of Posit Workbench
 [Zendesk](https://help.datim.org/hc/en-us/requests/new?ticket_form_id=17164442663444)
 
 ![](https://static.wikia.nocookie.net/international-entertainment-project/images/7/73/Dexter%27s_Laboratory_-_Poster_.jpg/revision/latest/thumbnail/width/360/height/450?cb=20220630172540)
+
+---
+
+*Disclaimer: The findings, interpretation, and conclusions expressed herein are those of the authors and do not necessarily reflect the views of United States Agency for International Development. All errors remain our own.*
